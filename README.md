@@ -1,2 +1,3 @@
-# node-ts-package-template
-A TypeScript based NodeJS package template
+# @f0c1s/node-os-service
+
+A TypeScript based NodeJS service for getting OS details.
